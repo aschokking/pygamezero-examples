@@ -1,3 +1,5 @@
+from pgzero.builtins import Actor
+
 ball = Actor('ball')
 ball.dx = 10
 ball.dy = 5
